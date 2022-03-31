@@ -1,4 +1,4 @@
 {
     "mongoURI":
-      "mongodb+srv://kmj47892:Alinani95!@cluster0.xofuo.mongodb.net/myFirstDatabase?"
+    "mongodb+srv://kmj4789:Alinani95!@clustingtry.gltqf.mongodb.net/Project1?retryWrites=true&w=majority"
   }
